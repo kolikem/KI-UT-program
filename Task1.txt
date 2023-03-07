@@ -1,0 +1,8 @@
+Task1
+1. I did.
+2.	a. Community detection using CDI at module level may enable to identify novel marker genes relevant to human disorders. EEI can be used as a feature in clustering, which leads to increase of sensitivity and a better understanding of cell heterogeneity.
+	b. The authors cultured glioblastoma stem-like cells and performed scRNA-seq.
+3.	a.	(1) How can the robustness of EEI be explained theoretically?
+		(2) Is it possible to use only the EEI feature in dimensionality reduction?
+		(3) Can the indices (CDI and EEI) be improved to deal with expression patterns of more than two genes all at once? Is it significant?
+	b.	optional
