@@ -1,0 +1,14 @@
+Descriptions
+
+Task 5-2.
+Carbon dioxide uptake in grass plants. The ‘CO2’ data frame has 84 rows and 5 columns of data from an experiment on the coldtolerance of the grass species _Echinochloa crus-galli_.
+
+Task 6-3.
+Why:Piping helps users make their code more readable and understandable. 
+How:
+When not:
+
+Task 6-4
+
+
+Task 7-1-c
